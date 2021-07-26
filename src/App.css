@@ -34,10 +34,10 @@
   font-size: 2rem;
   text-align: center;
   outline: none;
-  background-color: white
+  color: aqua;
 }
-.feild[read-only]{
-  background:#282c34
+.feild:read-only{
+    color: #282c34;
 }
 @keyframes App-logo-spin {
   from {
